@@ -77,13 +77,13 @@ We tracked participants’ gaze coordinates while watching the videos using **To
 
 | Data Type                     | Description                                                                 |
 |------------------------------|-----------------------------------------------------------------------------|
-| 🎥 Video Files               | Original + Blood-blurred versions of 5 clips                                |
-| 📍 Blur Region Coordinates   | YOLO-detected + post-processed bounding boxes                              |
-| 👁 EAR Data                  | Eye openness values at 0.1s intervals, blink detection                      |
-| 👀 Eye-Tracking              | Gaze points + overlap detection with blurred regions                        |
-| 📝 Self-reports              | Per-video ratings of perceived violence (1–7 Likert scale)                  |
-| 🧠 MBPI Questionnaire        | Pre-experiment fear sensitivity to blood and injury                        |
-| 📈 Correlation Analysis      | Blink count, gaze ratio vs. MBPI score visualization                        |
+|    Video Files               | Original + Blood-blurred versions of 5 clips                                |
+|    Blur Region Coordinates   | YOLO-detected + post-processed bounding boxes                              |
+|    EAR Data                  | Eye openness values at 0.1s intervals, blink detection                      |
+|    Eye-Tracking              | Gaze points + overlap detection with blurred regions                        |
+|    Self-reports              | Per-video ratings of perceived violence (1–7 Likert scale)                  |
+|    MBPI Questionnaire        | Pre-experiment fear sensitivity to blood and injury                        |
+|    Correlation Analysis      | Blink count, gaze ratio vs. MBPI score visualization                        |
 
 All corresponding Python scripts for analysis and visualization are included in the `scripts/` folder.
 
