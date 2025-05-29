@@ -21,7 +21,7 @@ This repository contains the full code and dataset used in our paper:
 We propose a **segmentation-based filtering approach** to detect and blur only blood regions in videos. By leveraging semantic segmentation models, we ensure that non-violent parts remain untouched. The goal is to reduce psychological aversion while maintaining content understanding.
 
 
-# 🧪 Experiment Overview: Blood Blur and Human Visual Response
+# Experiment Overview: Blood Blur and Human Visual Response
 
 This repository provides all the datasets, code, and processed files used in our study on how **selective blood blurring** in violent videos affects viewer responses. We conducted multimodal experiments using segmentation, eye-tracking, and EAR (Eye Aspect Ratio) analysis.
 
@@ -73,7 +73,7 @@ We tracked participants’ gaze coordinates while watching the videos using **To
 
 ---
 
-## 📊 Summary of Collected Data
+## Summary of Collected Data
 
 | Data Type                     | Description                                                                 |
 |------------------------------|-----------------------------------------------------------------------------|
