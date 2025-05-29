@@ -27,7 +27,7 @@ This repository provides all the datasets, code, and processed files used in our
 
 ---
 
-## 🎬 Video Dataset
+## Video Dataset
 
 We selected **5 violent video clips** rated suitable for **15 years or older**, each containing visually intense bloody scenes. These were used to generate two versions:
 - **Original videos**  
@@ -40,7 +40,7 @@ We have also uploaded:
 
 ---
 
-## 👁 EAR (Eye Aspect Ratio) Data Collection
+## EAR (Eye Aspect Ratio) Data Collection
 
 We used a **laptop webcam** and an **EAR algorithm** to measure participants’ eye openness in real-time while watching the videos.
 
@@ -56,7 +56,7 @@ We used a **laptop webcam** and an **EAR algorithm** to measure participants’ 
 
 ---
 
-## 🎯 Eye-Tracking with Tobii Eye Tracker 5
+## Eye-Tracking with Tobii Eye Tracker 5
 
 We tracked participants’ gaze coordinates while watching the videos using **Tobii Eye Tracker 5**.
 
@@ -89,13 +89,13 @@ All corresponding Python scripts for analysis and visualization are included in 
 
 ---
 
-## 📂 Reproducibility
+## Reproducibility
 
 All data files and scripts mentioned above are included in this repository for full reproducibility. If you're looking for a specific file, just ask — we’ll gladly direct you.
 
 ---
 
-## 📄 Citation
+## Citation
 
 Son, J.; Cha, M.; Park, S. Segmentation-Based Blood Blurring: Examining Eye-Response Differences in Gory Video Viewing. Sensors 2025, 25, 2093.
 ```
@@ -113,7 +113,7 @@ Son, J.; Cha, M.; Park, S. Segmentation-Based Blood Blurring: Examining Eye-Resp
 
 ---
 
-## 📬 Questions?
+## Questions?
 
 Feel free to open an issue or contact [minjeongcha@khu.ac.kr] if you have questions about reproducing our experiments or using the dataset.
 
