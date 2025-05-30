@@ -81,13 +81,15 @@ We tracked participants’ gaze coordinates while watching the videos using **To
 |    Blur Region Coordinates   | YOLO-detected + post-processed bounding boxes                              |
 |    EAR Data                  | Eye openness values at 0.1s intervals, blink detection                      |
 |    Eye-Tracking              | Gaze points + overlap detection with blurred regions                        |
-|    Self-reports              | Per-video ratings of perceived violence (1–7 Likert scale)                  |
+|    Level of gore              | Per-video ratings of perceived violence (1–7 Likert scale)                  |
 |    MBPI Questionnaire        | Pre-experiment fear sensitivity to blood and injury                        |
 |    Correlation Analysis      | Blink count, gaze ratio vs. MBPI score visualization                        |
 
 Each participant's experiment data is in a separate folder.<br>
 **"A-Z 데이터"** is the data from participants 1-26. <br>
 A-Z(1-26), 27-37 is data from a total of **37 experiment participants.**
+<br><br>
+The **MBPI Questionnaire** and **Level of gore** collection data is organized in **Total Data Cleanup.**
 
 ---
 
