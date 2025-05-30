@@ -11,8 +11,7 @@ Segmentation-Based Blood Blurring: Examining Eye-Response Differences in Gory Vi
 
 This repository contains the full code and dataset used in our paper:
 
-**Son, J.; Cha, M.; Park, S. Segmentation-Based Blood Blurring: Examining Eye-Response Differences in Gory Video Viewing.** *Sensors 2025, 25, 2093.*  
-[https://doi.org/10.3390/s25072093](https://doi.org/10.3390/s25072093)
+**Son, J.; Cha, M.; Park, S. Segmentation-Based Blood Blurring: Examining Eye-Response Differences in Gory Video Viewing.** *Sensors 2025, 25, 2093.*  [https://doi.org/10.3390/s25072093](https://doi.org/10.3390/s25072093)
 
 ---
 
