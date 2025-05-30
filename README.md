@@ -85,7 +85,9 @@ We tracked participants’ gaze coordinates while watching the videos using **To
 |    MBPI Questionnaire        | Pre-experiment fear sensitivity to blood and injury                        |
 |    Correlation Analysis      | Blink count, gaze ratio vs. MBPI score visualization                        |
 
-All corresponding Python scripts for analysis and visualization are included in the `scripts/` folder.
+Each participant's experiment data is in a separate folder.
+"A-Z 데이터" is the data from participants 1-26. 
+A-Z (1-26), 27-37 is data from a total of 37 experiment participants.
 
 ---
 
