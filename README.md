@@ -91,7 +91,6 @@ A-Z(1-26), 27-37 is data from a total of **37 experiment participants.**
 The **MBPI Questionnaire** and **Level of gore** collection data is organized in **Total Data Cleanup.**
 <br><br>
 The data graph and analysis code for correlating the **MBPI Questionnaire** data with the **Eye Openness Ratio, Blink Frequency, and Eye Fixations** data can be found in **Figure3.ipynb.**
----
 
 ## Reproducibility
 
