@@ -97,6 +97,7 @@ The data graph and analysis code for correlating the **MBPI Questionnaire** data
 ## Reproducibility
 
 All data files and scripts mentioned above are included in this repository for full reproducibility. If you're looking for a specific file, just ask — we’ll gladly direct you.
+* Each analysis code file is attached in its own folder.
 
 ---
 
